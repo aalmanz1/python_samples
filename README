@@ -1,0 +1,45 @@
+"""
+"""
+
+Alex Almanza
+Professor Sepehr Amir-Mohammadian
+COMP 141
+7 March 2021
+
+COURSE PROJECT
+Phase 2.1: Parser for Lexp
+
+"""
+"""
+
+COMMAND TO EXECUTE
+
+unix> python3 scanner.py <input_file> <output_file>
+
+THIS IS THE COMMAND I USED IN ALL MY TESTING. DO NOT USE 
+py scanner.py OR python scanner.py
+
+Both files should be in .txt format. The output file should preferably be
+an empty file, as the program will erase and overwrite any previously-existing
+contents.
+The console output will look slightly different than the output in the output
+file. This is intentional.
+Files included are: README (duh), scanner.py, input, and
+output. Test input file is included for convenience, but feel free to use any other
+files.
+
+Compiler used is default PyCharm Community Edition
+
+"""
+Unfortunately, despite the generous amount of time we had to work
+on this project, I ended up running out of time. Running the program
+will not yield an Abstract Syntax Tree. I felt as if I were very close,
+but again time got the better of me.
+
+During grading, Please refer to the classes PTNode, PTInteriorNode, and
+PTLeafNode for code discussed in Module 10 - slides-parser.pdf,
+Recursive-descent parsing. Again, I feel as if I was extremely close and
+look forward to the possibility of making up for lost ground in Midterm1
+and phase 2.2 of the project.
+"""
+

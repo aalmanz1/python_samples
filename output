@@ -1,0 +1,20 @@
+Line: 3 * (5 + 2 / x - 1)
+NUMBER : 3
+SYMBOL : *
+SYMBOL : (
+NUMBER : 5
+SYMBOL : +
+NUMBER : 2
+SYMBOL : /
+IDENTIFIER : x
+SYMBOL : -
+NUMBER : 1
+SYMBOL : )
+Line: (10 + 5) * 3
+SYMBOL : (
+NUMBER : 10
+SYMBOL : +
+NUMBER : 5
+SYMBOL : )
+SYMBOL : *
+NUMBER : 3

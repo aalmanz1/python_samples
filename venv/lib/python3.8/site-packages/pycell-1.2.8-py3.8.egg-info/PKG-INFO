@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: pycell
+Version: 1.2.8
+Summary: A simple and flexible Python3 library for Cell
+Home-page: UNKNOWN
+Author: James Nordinski
+Author-email: james@onet.pl
+License: MIT
+Description: A simple and flexible Python3 library for Cell
+        
+        # Changes / Updates:
+        
+        ./1.2.7-
+         - All updates prior to 1.2 are viewable on our original package!
+Keywords: cell
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
