@@ -13,19 +13,6 @@ Phase 2.1: Parser for Lexp
 """
 """"""""""""""""""""""""""""""""""""
 
-"""
-Unfortunately, despite the generous amount of time we had to work
-on this project, I ended up running out of time. Running the program
-will not yield an Abstract Syntax Tree. I felt as if I were very close,
-but again time got the better of me. 
-
-During grading, Please refer to the classes PTNode, PTInteriorNode, and
-PTLeafNode for code discussed in Module 10 - slides-parser.pdf, 
-Recursive-descent parsing. Again, I feel as if I was extremely close and
-look forward to the possibility of making up for lost ground in Midterm1
-and phase 2.2 of the project.
-"""
-
 import os
 import re
 import sys
